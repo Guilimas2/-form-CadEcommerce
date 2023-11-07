@@ -1,5 +1,6 @@
-# -form-CadEcommerce
-os site que eu vizitei foram "Centauro, Shopee, Apple"
+
+# os site que eu vizitei foram "Centauro, Shopee, Apple"
+
 ![tela de inicio](centauro.png)
 * CEP 
 * Nome e sobrenome 
@@ -11,7 +12,7 @@ os site que eu vizitei foram "Centauro, Shopee, Apple"
 * Senha 
 * Confirmar sua senha 
 # DADOS DE ENTREGA 
-*Tipos de endereço 
+* Tipos de endereço 
 * Nome\sobrenome 
 * Cep 
 * Endereço 
@@ -27,7 +28,7 @@ os site que eu vizitei foram "Centauro, Shopee, Apple"
 * Telefone 
 * Senha 
 # DADOS DE ENTREGA 
-*Nome completo 
+* Nome completo 
 * Telefone celular 
 * Cep 
 * Estado/cidade
