@@ -1,5 +1,5 @@
 
-# os site que eu vizitei foram "Centauro, Shopee, Apple"
+# os site que eu visitei foram "Centauro, Shopee, Apple"
 
 ![tela de inicio](centauro.png)
 * CEP 
