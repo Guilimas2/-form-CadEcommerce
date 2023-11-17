@@ -2,6 +2,7 @@
 # os site que eu visitei foram "Centauro, Shopee, Apple"
 
 ![tela de inicio](centauro.png)
+
 * CEP 
 * Nome e sobrenome 
 * CPF
