@@ -70,5 +70,6 @@
   * ⚙️BOOTSTRAP⚙️
   * ⚙️GITHUB⚙️
   * ⚙️VSCODE⚙️
+  * ⚙️EMOJI TERRA⚙️
 
 
