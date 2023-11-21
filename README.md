@@ -66,9 +66,9 @@
 
 
   # FERRAMENTAS UTILIZADAS 🧑‍💻
-  ⚙️HTML⚙️
-  ⚙️BOOTSTRAP⚙️
-  ⚙️GITHUB⚙️
-  ⚙️VSCODE⚙️
+  * ⚙️HTML⚙️
+  * ⚙️BOOTSTRAP⚙️
+  * ⚙️GITHUB⚙️
+  * ⚙️VSCODE⚙️
 
 
